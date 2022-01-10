@@ -803,6 +803,7 @@ nav.socials ul li a:hover svg {
   width: 100%;
 }
 @media (min-width: 1200px) {
+  
   #hero .caption {
     width: 50%;
   }
@@ -1095,6 +1096,7 @@ nav.socials ul li a:hover svg {
   right: calc(50% - 15px);
 }
 @media screen and (max-width: 1200px) {
+  
   #roadmap .timeline {
     width: 100%;
   }
@@ -1447,6 +1449,7 @@ footer #powered-by-avalanche img {
     --font-70: 40px;
     --font-75: 44px;
   }
+  
 }
 @media (min-width: 1040px) {
   :root {
@@ -1461,6 +1464,7 @@ footer #powered-by-avalanche img {
     --font-70: 70px;
     --font-75: 75px;
   }
+  
   .wrapper {
     width: 940px;
     margin: auto;
@@ -1716,6 +1720,7 @@ footer #powered-by-avalanche img {
     width: 1340px;
     margin: auto;
   }
+ 
 }
 .parent {
   position: fixed;
@@ -1731,7 +1736,7 @@ footer #powered-by-avalanche img {
 .team-section {
   /* border: 1px solid white; */
   height: 100vh;
-  padding: 2rem 5rem;
+  
 }
 .team-section-tile {
   display: block;
